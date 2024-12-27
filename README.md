@@ -113,8 +113,8 @@ This plugin is licensed under the MIT License.
 
 Contact
 
-If you have any questions or suggestions, feel free to reach out to [Your Name] at [your-email@example.com].
-
+If you have any questions or suggestions, feel free to reach out to team at [developers@cybersolin.com].
+-----------------------------------------------------------------------
 Folder Structure Example
 my-project/
 ├── node_modules/
@@ -125,4 +125,6 @@ my-project/
 │   ├── app.log
 │   └── error.log
 └── README.md        # (This file)
+------------------------------------------------------------------------
+
 By following this setup, developers can easily integrate the plugin, and customize logging for their applications without the hassle of manually installing and configuring Winston.
