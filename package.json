@@ -1,5 +1,5 @@
 {
-  "name": "logger-plugin",
+  "name": "logger-plugin-dev",
   "version": "1.0.0",
   "description": "A self-contained Winston logger plugin for Express.js",
   "main": "index.js",
