@@ -20,7 +20,7 @@ A self-contained, easy-to-integrate logging solution for Express.js applications
 Install the plugin using NPM:
 
 ```bash
-npm install logger-plugin
+npm install logger-plugin-dev
 ```
 
 This will install the plugin and include the necessary Winston dependency.
